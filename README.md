@@ -1,2 +1,3 @@
 # ShoppingCart
- e-commerce
+
+e-commerce site with cart function
